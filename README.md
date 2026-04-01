@@ -1,7 +1,7 @@
 
 
 # 💫 Hi 👋, I'm Vaishnavi Salve
-**A passionate BCA Student || Aspiring Data Analyst ||
+A passionate BCA Student || Aspiring Data Analyst ||
 
 
 
