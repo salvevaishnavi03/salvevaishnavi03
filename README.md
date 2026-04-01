@@ -9,7 +9,7 @@ A passionate BCA Student || Aspiring Data Analyst ||
 - 🌱 **I’m currently learning:** Python, SQL, Power BI & Data Visualization  
 - 👯 **I’m looking to collaborate on:** Data Analysis / Web Development Projects  
 - 🤔 **I’m looking for help with:** Advanced Data Analytics & Industry Projects  
-- 💬 **Ask me about:** Data Analysis, SQL, Java & Projects  
+- 💬 **Ask me about:** Data Analysis, SQL,Projects  
 - 📫 **How to reach me:** salvevaishnavi03@gmail.com 
 - 😄 **Pronouns:** She/Her  
 - ⚡ **Fun fact:** I turn data into insights & ideas into projects 🚀
